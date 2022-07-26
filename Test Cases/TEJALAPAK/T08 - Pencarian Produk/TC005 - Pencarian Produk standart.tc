@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC005 - Pencarian Produk standart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8859b553-d54d-40ca-85c3-71ae74341608</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>99d85da9-3539-4d0d-ab8b-3037f5ef1cce</id>
+      <masked>false</masked>
+      <name>produk</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC006 - Pencarian Produk Kategori Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c61e51e6-f668-4ac0-a271-14261f27583a</testCaseGuid>
+   <variable>
+      <defaultValue>'rafella'</defaultValue>
+      <description></description>
+      <id>0d1e78fa-ddd5-4892-8836-50d666d22f60</id>
+      <masked>false</masked>
+      <name>produk</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>220c96b7-7e80-4216-b4b2-d36bd79c8436</id>
+      <masked>false</masked>
+      <name>kategori</name>
+   </variable>
+</TestCaseEntity>

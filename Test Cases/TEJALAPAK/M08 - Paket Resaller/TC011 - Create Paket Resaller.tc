@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC011 - Create Paket Resaller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0b3fd65-8e60-4b85-b88c-518a2b7994e9</testCaseGuid>
+   <variable>
+      <defaultValue>'      Star Saller 20 Bulan'</defaultValue>
+      <description></description>
+      <id>adb50570-1f19-4a6e-aa11-ffdbba37895e</id>
+      <masked>false</masked>
+      <name>nama</name>
+   </variable>
+   <variable>
+      <defaultValue>'Star Ssaller'</defaultValue>
+      <description></description>
+      <id>71272326-15d7-434c-889c-c5e40d1abde0</id>
+      <masked>false</masked>
+      <name>judul</name>
+   </variable>
+   <variable>
+      <defaultValue>'Paket Star Saller selama 2 bulan'</defaultValue>
+      <description></description>
+      <id>fdc72a68-f7bd-44d0-bd0e-198de7eab8e4</id>
+      <masked>false</masked>
+      <name>keterangan</name>
+   </variable>
+   <variable>
+      <defaultValue>'600'</defaultValue>
+      <description></description>
+      <id>0cb7e7fe-043d-4994-bae8-985c7df2dff4</id>
+      <masked>false</masked>
+      <name>durasi</name>
+   </variable>
+   <variable>
+      <defaultValue>'3900000'</defaultValue>
+      <description></description>
+      <id>71d936c9-ac62-4ad2-92e7-69b8bb3c381a</id>
+      <masked>false</masked>
+      <name>harga</name>
+   </variable>
+   <variable>
+      <defaultValue>'1500'</defaultValue>
+      <description></description>
+      <id>ba62892e-1a8d-47bb-a487-07974ff1a1aa</id>
+      <masked>false</masked>
+      <name>max_produk</name>
+   </variable>
+   <variable>
+      <defaultValue>'img11'</defaultValue>
+      <description></description>
+      <id>6e3af7aa-f337-4fe7-8141-a11b90b20c24</id>
+      <masked>false</masked>
+      <name>icon_kode</name>
+   </variable>
+   <variable>
+      <defaultValue>'D:\\Bootcamp\\TAJALAPAK MINIPRO\\Paket_Resaller_Img\\large_991f24577c.jpg'</defaultValue>
+      <description></description>
+      <id>e0264fef-0645-4772-aa82-87f16adec0e1</id>
+      <masked>false</masked>
+      <name>icon_img</name>
+   </variable>
+</TestCaseEntity>

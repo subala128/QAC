@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002 - Pembelian, Shipment, Pembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9bd93c8-4b8d-44c3-932e-ae5d42ce1b87</testCaseGuid>
+</TestCaseEntity>

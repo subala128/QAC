@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC007 - Pencarian Produk dengan filter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee28ef91-b1a0-4a68-889f-2e0336cdcafd</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1d944610-a41a-44f8-a8df-a097a30fcf67</id>
+      <masked>false</masked>
+      <name>produk</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6966e9fc-1a66-403d-bd30-597a53d03c9b</id>
+      <masked>false</masked>
+      <name>provinsi</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1ce22403-2ded-42e1-80f7-e662fbf5d0de</id>
+      <masked>false</masked>
+      <name>kabupaten</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>00f5e9f6-67a8-4580-aab0-39efa042b6c7</id>
+      <masked>false</masked>
+      <name>kecamatan</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>341b7365-cc0a-4cf4-a414-70a2d4ccb96b</id>
+      <masked>false</masked>
+      <name>sort</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b587ccd8-aa4f-4f00-a6be-05af77229ee8</id>
+      <masked>false</masked>
+      <name>hrgstart</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cdb0aa90-5670-4613-b089-23fda0912bab</id>
+      <masked>false</masked>
+      <name>hrgend</name>
+   </variable>
+</TestCaseEntity>

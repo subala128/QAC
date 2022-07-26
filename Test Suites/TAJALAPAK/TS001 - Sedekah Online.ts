@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS001 - Sedekah Online</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>1c0bccdd-1047-4118-a8b3-0222392512e0</testSuiteGuid>
+   <testCaseLink>
+      <guid>eaabe7c0-c9bf-4d6d-bfca-2358c0b982d1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TEJALAPAK/TC003 - Sedekah Online</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5d64f003-3672-45f8-a8b6-264ef5be8ef6</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TAJALAPAK/Sedekah Online</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>5d64f003-3672-45f8-a8b6-264ef5be8ef6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nominal</value>
+         <variableId>3171e4a6-28b0-4dab-9e00-dd18c3ff3a3c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5d64f003-3672-45f8-a8b6-264ef5be8ef6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nama</value>
+         <variableId>b7be2c91-a6b3-4d68-bece-371514272cd8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5d64f003-3672-45f8-a8b6-264ef5be8ef6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>8c813c4b-ddf2-4509-abc0-057fc293195a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5d64f003-3672-45f8-a8b6-264ef5be8ef6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pembayaran</value>
+         <variableId>4f889d85-9862-4023-8051-65a80634a813</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5d64f003-3672-45f8-a8b6-264ef5be8ef6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tujuan</value>
+         <variableId>ad9a58b2-a93d-4982-a3fc-56ad94867644</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5d64f003-3672-45f8-a8b6-264ef5be8ef6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>doa</value>
+         <variableId>c11c0fef-7c64-4ec7-9fa9-c959922eab31</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5d64f003-3672-45f8-a8b6-264ef5be8ef6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>hp_blkng</value>
+         <variableId>b9a2276e-d483-41aa-9741-b71d1a5896ff</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5d64f003-3672-45f8-a8b6-264ef5be8ef6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>no_hp</value>
+         <variableId>35541afc-bd65-4992-b670-b6262f32d199</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

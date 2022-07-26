@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search menggunakan &quot;Data Files&quot;</description>
+   <name>TC002 - Search Data Files</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da6c748a-5ad9-4a4f-9cc6-41f7a8032be9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d6f0320e-dac8-48cd-ac60-caafb7d6aaea</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>
